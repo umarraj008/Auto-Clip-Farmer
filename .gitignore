@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+clips.db
+cookies.txt
+sz.txt
+upload_log.txt
+.tables
